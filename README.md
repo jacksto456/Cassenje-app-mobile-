@@ -9,6 +9,6 @@ A **Cassenje** é a plataforma definitiva para o estudante angolano. Este reposi
 * **Banco de Provas:** Estude com exames passados das maiores universidades de Angola (UAN, UTANGA, UnIA).
 
 ## 🚀 Como baixar e usar
-1. Vá para a seção de [Releases](link-da-release) deste repositório.
+1. Vá para a seção de [Releases]([link-da-release](https://github.com/jacksto456/Cassenje-app-mobile-/releases)) deste repositório.
 2. Baixe o arquivo `.apk` mais recente.
 3. Instale no seu dispositivo Android.
